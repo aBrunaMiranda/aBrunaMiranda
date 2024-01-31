@@ -2,9 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Meu+nome+é+Bruna+Miranda,)](https://github.com/aBrunaMiranda) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Analista+de+Testes+e+QA+!+)](https://github.com/aBrunaMiranda) <br>
 
-<p align="right">
-<table width="100%">
-<tr><td valign="top" width="50%">
 
 Sou formada em Tecnico de Desenvolvimento de Sistema pela etec e atualmente estou cursando Engenharia da Computação na Univesp.
 Atuo a 3 anos como analista de QA e estou constantemente buscando conhecimento na área.
@@ -14,9 +11,7 @@ No meu tempo livre gosto de jogar overwatch, bricar com meu cachorro e correr. S
   <img src="https://media1.tenor.com/m/rkheja6mTEUAAAAC/take-your-dog-to-work-day-good-boy.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
 </div>
 
-</td></tr>
-</table>
-</p>
+
 
 
 
