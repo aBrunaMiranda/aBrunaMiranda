@@ -1,4 +1,16 @@
-### Hi there 👋
+### Olá, pessoas 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ola,+pessoas!%F0%9F%91%8B)](https://github.com/aBrunaMiranda)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Meu+nome+é+Bruna+Miranda,)](https://github.com/aBrunaMiranda)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Analista+de+Testes+e+QA+!+)](https://github.com/aBrunaMiranda)
+
+<div align="center">
+  <a href="https://github.com/aBrunaMiranda">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aBrunaMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aBrunaMiranda&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 <!--
 **aBrunaMiranda/aBrunaMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
