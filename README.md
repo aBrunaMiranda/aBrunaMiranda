@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ola,+pessoas!%F0%9F%91%8B)](https://github.com/aBrunaMiranda) 👋 <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Ola,+pessoas!%F0%9F%91%8B)](https://github.com/aBrunaMiranda) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Meu+nome+é+Bruna+Miranda,)](https://github.com/aBrunaMiranda) <br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C9D1D9&lines=Analista+de+Testes+e+QA+!+)](https://github.com/aBrunaMiranda)
 
