@@ -11,8 +11,9 @@ Atuo a 3 anos como analista de QA e estou constantemente buscando conhecimento n
 No meu tempo livre gosto de jogar overwatch, bricar com meu cachorro e correr. Sinta-se à vontade para entrar em contato para trocar conhecimentos e experiencias ou só bater um papo 😄
 
 <div align="center"> 
-  <img src="https://tenor.com/LFQn.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
+  <img src="https://media1.tenor.com/m/rkheja6mTEUAAAAC/take-your-dog-to-work-day-good-boy.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
 </div>
+
 </td></tr>
 </table>
 </p>
