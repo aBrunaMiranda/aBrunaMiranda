@@ -13,8 +13,7 @@ No meu tempo livre gosto de jogar overwatch, bricar com meu cachorro e correr. S
 
 
 
-
-
+<!--
 <div align="center">
   <a href="https://github.com/aBrunaMiranda">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aBrunaMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,7 +22,7 @@ No meu tempo livre gosto de jogar overwatch, bricar com meu cachorro e correr. S
 
 
 
-<!--
+
 **aBrunaMiranda/aBrunaMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
